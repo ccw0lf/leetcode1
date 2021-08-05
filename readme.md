@@ -31,5 +31,4 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     return [i, j]
                     
-Solution.twoSum(nums=[2,7,3,6,7],target=6)
 ```
